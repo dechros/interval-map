@@ -32,11 +32,6 @@ void TEST_CASE_17(void);
 void TEST_CASE_18(void);
 void TEST_CASE_19(void);
 
-/**
- * @brief Enterance point of the program
- *
- * @return int Program succes value
- */
 int main(void)
 {
     TEST_CASE_1();
